@@ -1,0 +1,4 @@
+[core]
+    remote = mypipeline
+['remote "mypipeline"']
+    url = s3://s3pipelinebucket
